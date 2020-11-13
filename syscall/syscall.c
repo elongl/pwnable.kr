@@ -48,4 +48,3 @@ static void __exit exitmodule(void)
 
 module_init(initmodule);
 module_exit(exitmodule);
-
